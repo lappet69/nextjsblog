@@ -1,7 +1,7 @@
 {
   "name": "blog-starter",
   "version": "1.0.0",
-  "auhtor":"lappet69",
+  "author":"lappet69",
   "scripts": {
     "dev": "next",
     "build": "next build && next export",
